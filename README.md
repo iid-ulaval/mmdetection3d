@@ -24,6 +24,9 @@
 [![codecov](https://codecov.io/gh/open-mmlab/mmdetection3d/branch/master/graph/badge.svg)](https://codecov.io/gh/open-mmlab/mmdetection3d)
 [![license](https://img.shields.io/github/license/open-mmlab/mmdetection3d.svg)](https://github.com/open-mmlab/mmdetection3d/blob/master/LICENSE)
 
+## Command to create conda environment from the yml file which installs all the required packages to run the repository
+conda env create -f environment_droplet.yml
+
 **News**:
 
 ### 💎 Stable version
